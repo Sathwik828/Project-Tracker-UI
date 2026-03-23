@@ -4,7 +4,7 @@ A professional-grade, highly interactive project management dashboard built with
 
 ## 📸 Screenshot
 
-![Project Tracker UI](https://raw.githubusercontent.com/Sathwik828/Project-Tracker-UI/main/SCREENSHOOT.PNG.png)
+![Project Tracker UI](https://raw.githubusercontent.com/Sathwik828/Project-Tracker-UI/main/screenshot.png)
 
 ## 🚀 Key Features
 
