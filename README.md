@@ -2,7 +2,9 @@
 
 A professional-grade, highly interactive project management dashboard built with **React 19**, **TypeScript**, and **Tailwind CSS v4**. This project showcases advanced frontend engineering patterns, including zero-dependency drag-and-drop and custom high-performance virtualization.
 
-![Project Screenshot](https://raw.githubusercontent.com/username/repo/main/screenshot.png) *(Replace with your local screenshot)*
+## 📸 Screenshot
+
+![Project Tracker UI](https://raw.githubusercontent.com/Sathwik828/Project-Tracker-UI/main/SCREENSHOOT.PNG.png)
 
 ## 🚀 Key Features
 
